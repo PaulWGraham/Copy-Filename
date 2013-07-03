@@ -28,7 +28,7 @@ It allows you to copy the name of a file (or files) to the clipboard by right-cl
 ## To Confirm Installation ##
 
  1. Open a new Finder window.
- 2. Right-click a folder in the Finder window.
+ 2. Right-click a file or folder in the Finder window.
 
 If there is a __Copy Filename__ item in the context menu that appears the installation was successful.
 
